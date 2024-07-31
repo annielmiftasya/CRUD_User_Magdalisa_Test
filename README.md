@@ -31,8 +31,8 @@ Jalankan perintah berikut untuk memulai server pengembangan Laravel:
 php artisan serve
 ```
 
-### 5.Akses Laravel Telescope
-Anda dapat mengakses Laravel Telescope di
+### 5.Akses Url
+Anda dapat mengakses Url
 ```bash
  http://localhost:8000/
 ```
