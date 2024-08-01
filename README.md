@@ -19,13 +19,21 @@ Jalankan perintah berikut untuk menginstal dependensi PHP menggunakan Composer:
 composer install
 ```
 
-### 2.Migrasi Database
-Jalankan perintah berikut untuk melakukan migrasi database:
+### 2. Instal Dependensi
+
+Jalankan perintah berikut untuk menginstal dependensi PHP menggunakan Composer:
 ```bash
-php artisan migrate
+composer install
 ```
 
-### 3.Jalankan Server
+
+### 3.Install Key Generate
+Jalankan perintah berikut untuk melakukan generate key:
+```bash
+php artisan key:generate
+```
+
+### 4.Jalankan Server
 Jalankan perintah berikut untuk memulai server pengembangan Laravel:
 ```bash
 php artisan serve
